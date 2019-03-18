@@ -1,0 +1,22 @@
+@font-face {
+    src: url("../fonts/Raleway-Regular.ttf");
+    font-family: bitm;
+}
+
+.font-bitm{ font-family: bitm; }
+
+.my-caption{ bottom: 35%; }
+
+.line{
+    width: 40%;
+    background-color: grey;
+    height: 2px;
+}
+
+.left, .right {
+    cursor: pointer;
+}
+
+.bg-section{
+    background-image: url("../img/Background.png");
+}
